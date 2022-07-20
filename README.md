@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, I'm Pratham Uttreja</h1>
-<h3 align="center">I watch Anime, play games and most importantly I like coding</h3>
+<p><img align="center" src="https://raw.githubusercontent.com/tm2582001/tm2582001/main/giphy%20(1).gif" width=250 height=160 /></p>
+
+<h3 align="center"> I watch Anime, play games and most importantly I like coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttrejapratham&label=Profile%20views&color=0e75b6&style=flat" alt="uttrejapratham" /> </p>
 
